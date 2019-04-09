@@ -11,10 +11,12 @@ As you go into the job hunt, being able to talk about ways you have lead in the 
 
 ## Directions
 
-  1) Fork the outline template
+  1) Find your cohort folder
+  
+  2) Fork the outline template
 
-  2) Complete the outline 
+  3) Complete the outline 
 
-  3) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
+  4) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
 
   4) Submit PR and tag @emhickmann
