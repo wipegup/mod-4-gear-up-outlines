@@ -11,12 +11,12 @@ As you go into the job hunt, being able to talk about ways you have lead in the 
 
 ## Directions
 
-  1) Find your cohort folder
+  1) Fork this repo
   
-  2) Fork the outline template
+  2) Inside your cohort folder, create a new file and copy the outline into it
 
   3) Complete the outline 
 
   4) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
 
-  4) Submit PR and tag @emhickmann
+  4)  Submit a PR to the turingschool/mod-4-gear-up-outlines repo, tag EM
