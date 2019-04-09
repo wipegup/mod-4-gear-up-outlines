@@ -3,22 +3,41 @@
 ## Directions
 
   1) Fork the outline template
+
+  2) Complete the outline 
+
+  3) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
+
+  4) Submit PR and tag @emhickmann
+
+<p style=border:2px solid blue>
+
+## OUTLINE
+
+### Each presentation should include 5-8 minutes of polished content with slides. 
   
-  2) Complete the full outline
+  Link to your slide deck (google slides recommended): __________________
   
-  3) 
+  Name of your Gear Up Presentation: ______________________
+  
+  Introduction of yourself: _____________________
+  
+  Why did you select this topic?  Why is it of interest? _________________________
+  
+  Detailed description of the topic/history of the topic: ___________________________
+  
+  How does this connect to mission of Gear Up? ___________________________
+  
+  How will this impact you as a developer? ___________________________
+  
+  Write 2-3 discussion questions you might want people to discuss after your presentation:
+    1.
+    2.
+    3.
+    
+   Anything additional you are adding to your talk? _________________________
 
 
-Each presentation should include the following:
-5-8 minutes of polished content with slides (link to slides in the outline)
-An introduction of yourself
-Why you selected this topic/why it is interesting to you?
-Detailed description of your topic (history, definitions, examples)
-How does this connect to Gear Up?
-How will this impact you as a developer?
-Gender neutral and inclusive language (avoid using gendered language like “guys”)
-Discussion questions that you will provide students at the end of your talk
-Presentations could include the following:
-Connections to recent events 
-Fun and appropriate GIFs, videos, photos
-What else might you include in your talk?
+
+
+
