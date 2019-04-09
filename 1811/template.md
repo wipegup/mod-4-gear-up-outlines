@@ -2,15 +2,18 @@
 
 ## Directions
 
-  1) Fork the outline template
+ ## Directions
 
-  2) Complete the outline 
+  1) Fork this repo
+  
+  2) Inside your cohort folder, create a new file and copy the outline into it
 
-  3) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
+  3) Complete the outline 
 
-  4) Submit PR and tag @emhickmann
+  4) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
 
-<p style=border:2px solid blue>
+  5)  Submit a PR to the turingschool/mod-4-gear-up-outlines repo, tag EM
+
 
 ## OUTLINE
 
