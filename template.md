@@ -1,3 +1,14 @@
+# Mod 4 Gear Up Outline Template
+
+## Directions
+
+  1) Fork the outline template
+  
+  2) Complete the full outline
+  
+  3) 
+
+
 Each presentation should include the following:
 5-8 minutes of polished content with slides (link to slides in the outline)
 An introduction of yourself
