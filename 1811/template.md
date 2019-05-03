@@ -6,7 +6,7 @@
 
   1) Fork this repo
   
-  2) Inside your cohort folder, create a new file and copy the outline into it
+  2) Go to your cohort folder, create a new file and copy the outline into it
 
   3) Complete the outline 
 
