@@ -1,22 +1,24 @@
-# Mod 4 Gear Up Overview
+## OUTLINE
 
-## Purpose
-
-When employers hear about Gear Up, they are immediately intrigued.  <i>Most companies can teach you technical skills, new frameworks, new languages, but they do not have the time to teach you how to be a great team member, how to be inclusive, or how to discuss topics of diversity.</i>
-
-As you go into the job hunt, being able to talk about ways you have lead in the community and talking about issues of diversity and inclusion will set you apart from other candidates. 
-
-<b>The purpose of Gear Up is to have students build perspective and expertise connecting their technical work to the impact on their peers, community, and world. We want students are equipped to help realize our vision of a world powered by technology where the people building it represent the people using it.</b>
-
-
-## Directions
-
-  1) Fork this repo
+### Each presentation should include 5-8 minutes of polished content with slides. 
   
-  2) Go to your cohort folder, create a new file and copy the outline into it
-
-  3) Complete the outline 
-
-  4) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
-
-  4)  Submit a PR to the turingschool/mod-4-gear-up-outlines repo, tag EM
+  Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1TCGDe6q3zUfCozOdiCwow0mTR4hV_31I1QFvwekiODw/edit#slide=id.g592c94300c_0_65
+  
+  Name of your Gear Up Presentation: Dark Web
+  
+  Introduction of yourself: David Cisneros
+  
+  Why did you select this topic?  Why is it of interest? I chose to do this topic to educate the dangers of privacy in sites      and how it can lead to leaking someones personal information onto the dark webs.
+  
+  Detailed description of the topic/history of the topic: The Dark Web is a term that refers specifically to a collection of      websites that are publicly visible, but hide the IP addresses of the servers that run them. 
+  
+  How does this connect to mission of Gear Up? We have a responsibilty to protect our users infomation from being exposed to      these sites that can affect their lives.
+  
+  How will this impact you as a developer? This will impact me as developer to be more conscious of users privacy 
+  
+  Write 2-3 discussion questions you might want people to discuss after your presentation:
+    1. Do you think you have been compromised?
+    2. How does that make you feel that we have this kind of power at our fingertips?
+    3. How does this make you feel that your data maybe out there?
+    
+   Anything additional you are adding to your talk? _________________________
