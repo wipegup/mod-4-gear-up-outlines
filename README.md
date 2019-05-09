@@ -1,24 +1,40 @@
+# Mod 4 Gear Up Outline Template
+
+
+
+## Directions
+
+  1) Fork this repo
+  
+  2) Inside your cohort folder, create a new file and copy the outline into it
+
+  3) Complete the outline 
+
+  4) Name your md file with your TOPIC and LAST NAME (ex.   Microaggressions_Hickmann.md)
+
+  5)  Submit a PR to the turingschool/mod-4-gear-up-outlines repo, tag EM
+
 ## OUTLINE
 
 ### Each presentation should include 5-8 minutes of polished content with slides. 
   
-  Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1TCGDe6q3zUfCozOdiCwow0mTR4hV_31I1QFvwekiODw/edit#slide=id.g592c94300c_0_65
+  Link to your slide deck (google slides recommended): __________________
   
-  Name of your Gear Up Presentation: Dark Web
+  Name of your Gear Up Presentation: ______________________
   
-  Introduction of yourself: David Cisneros
+  Introduction of yourself: _____________________
   
-  Why did you select this topic?  Why is it of interest? I chose to do this topic to educate the dangers of privacy in sites      and how it can lead to leaking someones personal information onto the dark webs.
+  Why did you select this topic?  Why is it of interest? _________________________
   
-  Detailed description of the topic/history of the topic: The Dark Web is a term that refers specifically to a collection of      websites that are publicly visible, but hide the IP addresses of the servers that run them. 
+  Detailed description of the topic/history of the topic: ___________________________
   
-  How does this connect to mission of Gear Up? We have a responsibilty to protect our users infomation from being exposed to      these sites that can affect their lives.
+  How does this connect to mission of Gear Up? ___________________________
   
-  How will this impact you as a developer? This will impact me as developer to be more conscious of users privacy 
+  How will this impact you as a developer? ___________________________
   
   Write 2-3 discussion questions you might want people to discuss after your presentation:
-    1. Do you think you have been compromised?
-    2. How does that make you feel that we have this kind of power at our fingertips?
-    3. How does this make you feel that your data maybe out there?
+    1.
+    2.
+    3.
     
    Anything additional you are adding to your talk? _________________________
