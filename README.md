@@ -31,6 +31,8 @@
   How does this connect to mission of Gear Up? ___________________________
   
   How will this impact you as a developer? ___________________________
+
+  Synthesis/Talk Closing statement: ____________________________
   
   Write 2-3 discussion questions you might want people to discuss after your presentation:
     1.
