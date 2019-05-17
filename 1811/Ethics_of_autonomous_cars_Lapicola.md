@@ -43,4 +43,10 @@
     2. If you decide to have this from people, it is ethical to make someone implement that action?
     3. Is it ethical to restrict access to public services for the benefit of others.
 
-   Anything additional you are adding to your talk? Not at this time.
+   Anything additional you are adding to your talk? Not at this time.\
+
+   ## Week 3 Work Time
+
+   Feedback: The talk did a good job of covering the problems, however the solutions to the problem were not clear. Would feel better if the program ended on a positive note instead of an open ended note (Stronger conclusion).
+
+   Links are unchanged.
