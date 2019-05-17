@@ -1,13 +1,13 @@
 Week 1 Outline
 
 Link to your slide deck (google slides recommended):
-  - Coming soon
+  - https://docs.google.com/presentation/d/1ieDCeGJXzQ4W9JA79mSoOt_NcX2QNVBgse5kAc74tCo/edit?usp=sharing
 
 Name of your Gear Up Presentation:
   - The Zone of Proximal Development
 
 Introduction of yourself:
-  - Hello, my name is Scott Thomas and I'm a BE Mod 4 student. Maybe more about my previous experience before Turing?
+  - Hello, my name is Scott Thomas and I'm a BE Mod 4 student. A brief bit about why I left my last career as an analytical lab tech. Explain how it was because I wasn't feeling rewarded or challenged. Lead into ZPD...
 
 Why did you select this topic?  Why is it of interest?
   - I was sitting over break trying to decide what I wanted to do my talk on and asked Earl (Mod 3 BE) if he had any good ideas. He said that he was interested in doing more research on ZPD. After doing some initial research on it, I felt it perfectly embodied why I came to Turing. I could have chosen to do this on my own, but there is a certain aspect of learning new things that requires instruction. I also believe it directly ties in with one of Turing's basic beliefs - Growth Mindset. I also believe that the ZPD is where we achieve the most 'true learning'.
@@ -30,4 +30,9 @@ Write 2-3 discussion questions you might want people to discuss after your prese
   3. Another question tying in growth mindset.
 
  Anything additional you are adding to your talk?
-  - Probably
+  - I want to finish slides linking ZPD to the Growth Mindset and how moving forward in our careers this will play a huge role in our development.
+
+Feedback:
+Partner: Tim Allen
+Summary: Thought the explanation of ZPD was good. He liked my segway from my past career and why I transitioned linking it to ZPD. Thought maybe a little more explanation of ZPD might help. Liked how I mentioned previous experiences at Turing from each learning zone and how I felt during each and where I thought optimal learning happens. Overall thought it was good and clean and with the last two slides would be good.
+ 
