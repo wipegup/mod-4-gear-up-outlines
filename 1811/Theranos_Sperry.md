@@ -1,4 +1,5 @@
-Link to your slide deck (google slides recommended): https://docs.google.com/presentation/d/1ibTaTRzE9jMB4xrNl1eqqZ42DPg3TKoGpkQ-88V1-8o/edit?usp=sharing
+Link to your slide deck (google slides recommended): 
+New slide deck: https://docs.google.com/presentation/d/1ibTaTRzE9jMB4xrNl1eqqZ42DPg3TKoGpkQ-88V1-8o/edit?usp=sharing
 
 Name of your Gear Up Presentation: Theranos: The Ethics of Hyperbole in Tech
 
