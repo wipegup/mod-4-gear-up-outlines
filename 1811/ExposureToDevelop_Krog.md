@@ -21,3 +21,6 @@
   3. What can you do as a developer to help bring underprivileged individuals into technical careers.
 
 - Anything additional you are adding to your talk? 
+
+- Feedback you got from your partner
+From the discussion from my partner, I got some really good feedback in regards to connecting my topic to the current body of Turing Students. I have a really good example that will be able to tie in the audience and create more engagement. 
