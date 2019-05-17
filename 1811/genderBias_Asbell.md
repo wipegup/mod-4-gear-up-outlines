@@ -2,10 +2,14 @@
 
 ## OUTLINE
 
+### Feedback
+- Give a solid definition of implicit bias.
+- Go into examples.
+
 ### Each presentation should include 5-8 minutes of polished content with slides. 
   
   Link to your slide deck (google slides recommended): 
-  [presentation](https://docs.google.com/presentation/d/1NodhaA3YcLkaRLRH_zEV5OoeoXGlPPZAFtk9Ym_azlA/edit#slide=id.p)
+  [presentation](https://docs.google.com/presentation/d/1NodhaA3YcLkaRLRH_zEV5OoeoXGlPPZAFtk9Ym_azlA/edit#slide=id.g5a3e793d2f_0_61)
   
   Name of your Gear Up Presentation: *Uprooting Hidden Gender Bias in the Workplace*
     
