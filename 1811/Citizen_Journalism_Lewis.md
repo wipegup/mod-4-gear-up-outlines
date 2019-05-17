@@ -1,3 +1,5 @@
+Partner Feedback: Add more information about how this impacts us as developers and what we can do to avoid the problems associated with citizen journalism. Don't spend too much time going through examples.
+
 Link to your slide deck: I will send my updated slides to EllenMary via Slack
 
 Name of your Gear Up Presentation: Citizen Journalism in the Internet Age
