@@ -8,8 +8,11 @@ Pros and Cons (on slides)
 
 Examples of Citizen Journalism
   2004 Indian Ocean tsunami - most of the important videos and images of the incident were taken by tourists, not journalists
+  
   Reddit publicly misidentified the perpetrator of the 2013 Boston Bombing
+  
   Virginia Tech Shooting iReport video
+  
   Impostor CNN and BBC News accounts in 2017 Kenyan election
     
 Conclusions
