@@ -44,4 +44,7 @@ Maybe somebody lost their livelihood to a robot. There's a lot to consider in bo
 
 2. Are you afraid/uncomfortable with self-driving vehicles? Why / why not?
 
-#### Anything additional you are adding to your talk?
+#### Additional feedback from partner:
+
+- The Gutenberg Press is a great thing to talk about (automation literally changing the world)
+- Talking about Wix.com and how automated website builders can literally take some of OUR jobs
