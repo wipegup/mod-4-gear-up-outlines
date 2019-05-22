@@ -29,3 +29,7 @@ Write 2-3 discussion questions you might want people to discuss after your prese
  - https://www.nytimes.com/2017/11/14/business/dealbook/taxing-companies-for-using-our-personal-data.html - thought of taxing big data
  - https://newsroom.iza.org/en/archive/opinion/a-data-tax-for-a-digital-economy/ - data taxing
  - https://www.newgenapps.com/blog/importance-benefits-competitive-advantage-big-data - positives of big data
+
+#### Feedback
+
+- use some specific examples to help paint a better picture of the data thats being collected and better shows the pros and cons of it. Beg the question of our 'we' a commodity to tech companies. Over all arch is good, but walk through it again to ensure that it has a good flow from start to finish. Complete the addition of pictures to slides.
