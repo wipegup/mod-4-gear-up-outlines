@@ -1,6 +1,6 @@
 Link to your slide deck (google slides recommended):
 
-https://docs.google.com/presentation/d/1INtxyE8VJHAJiY9rfbFhGqcGCCYIHmpfcT9JT9TNLko/edit#slide=id.p
+https://docs.google.com/presentation/d/1INtxyE8VJHAJiY9rfbFhGqcGCCYIHmpfcT9JT9TNLko/edit?usp=sharing
 
 Name of your Gear Up Presentation:
 
@@ -32,3 +32,7 @@ Write 2-3 discussion questions you might want people to discuss after your prese
   3. What are things you can do in the public opinion sector to try to encourage the community to take this issue seriously?
 
  Anything additional you are adding to your talk? _________________________
+
+Feedback:
+
+Scott told me to make sure I spend my time wisely and talk more about solutions. I need to include more pictures and slides regarding the current possible solutions. I will do that shortly.
