@@ -4,6 +4,7 @@
 ### Each presentation should include 5-8 minutes of polished content with slides. 
   
 #### Link to your slide deck (google slides recommended): ####
+https://docs.google.com/presentation/d/1kQGM2bmtCjEEAWP1Elg-20CeHmO4ptQ7MdvdQbOfxQE/edit?usp=sharing
   
 #### Name of your Gear Up Presentation:  Implicit biases in Tech ####
   
@@ -29,6 +30,12 @@ As programmers, we should be conscious of our biases so that they don't translat
 
 ##### How does this connect to mission of Gear Up? #####  
 I want people to think critically about their own biases with less judgement.
+
+##### How does this connect to mission of Gear Up? #####  
+Feedback from partner:
+- Less content in slides
+- Acknowledge that there is also bias against non binary people that might not have been studied yet
+- Take more time to explain the implicit bias test
 
 
 ##### How will this impact you as a developer? #####  
