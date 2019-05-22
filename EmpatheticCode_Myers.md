@@ -42,3 +42,9 @@
    `Anything additional you are adding to your talk?`
    
    Possible refactoring of code, but time may not allow and I will need to provide examples in both JS and Ruby which will be a little more involved.
+   
+   Feedback: Consider discussing more of aspect one. Give examples of forms that are not empathetic (gender, ethnicity) and what something might look like to someone who is colorblind and what semantic HTML looks like and WHY we would use this. I presented my topic to a backend student who didn't have much experience with this and wanted to learn more. Continue to flush out the part about reviewing code.
+   
+   Questions for EllenMary: I initially wanted to focus on the second aspect of empathetic code which would be writing and reviewing code. My partner was interested to hear more about the process of writing empathetic code as it relates to the user. I think that if I go through both topics the talk might be too long. I could flush out both and we could maybe go from there!
+   
+   Hi
