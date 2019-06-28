@@ -20,19 +20,19 @@
   
   Link to your slide deck (google slides recommended): __________________
   
-  Name of your Gear Up Presentation: ______________________
+  Name of your Gear Up Presentation: How companies know your secrets 
   
   Talking points for your presentation:
 
   
   2-3 discussion questions you might want people to discuss after your presentation:
-    1.
-    2.
+    1. Before this talk were you aware that companies collected data in this way?
+    2. Are you going to be more careful with how you use technology that are possibly collecting your data?
     3.
     
 Checklist: 
 
-- [ ] Does your Gear Up have a title?
+- [x] Does your Gear Up have a title?
 - [ ] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
 - [ ] Did you include an introduction of yourself?
 - [ ] Did you include a connection to gear up and why this talk is important to you?
