@@ -33,10 +33,15 @@
 Checklist: 
 
 - [ ] Does your Gear Up have a title?
+  yes
 - [ ] Do you have a slide deck that has permission for ANYONE WITH THE LINK to view it?
+  yes
 - [ ] Did you include an introduction of yourself?
 - [ ] Did you include a connection to gear up and why this talk is important to you?
 - [ ] Do you have engaging content?
 - [ ] Is your talk between 5-7 minutes?
 - [ ] Do you have at least three discussion questions?
 - [ ] Did you implement any of the feedback that was given to you about this talk?
+
+
+these are my currmt slides : https://docs.google.com/presentation/d/1stZcGnHPlsnDaF37f5tvWp6bTK5DS1jh8Z_DeNqq88M/edit#slide=id.g5ccd5f3c3e_0_268
