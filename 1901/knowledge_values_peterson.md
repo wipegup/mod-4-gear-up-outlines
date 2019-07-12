@@ -4,46 +4,73 @@ Name of your Gear Up Presentation: Knowledge and Values
 
 Talking points for your presentation:  
 
-Below is the script for my content, does not include introduction or bridge to questions
+Below is the script for my content:  
 
-In early 19th century America, the beginnings of a movement of curricular reform grew within the academy. Colleges were starting to experiment with allowing students more choice in their course of study. Up to this point, study in universities centered around the “classical curriculum” which included studies in Greek, Latin, and, of course, the Bible.
- 
-It’s important to point out that colleges during this period functioned in a capacity similar to the high-schools today. First of all, a broad base of lower levels of education had yet to be meaningfully established. Additionally, a philosophy of the “the unity of truth” guided academic belief. A “unity of truth” meant that all knowledge, from physics to biblical exegesis, was believed to be reconcilable – All knowledge is part of a single whole.
+I’m going to be talking about the American Academy in the 19th Century
+The reason for this is that during this time there was a big shift in the values and foundation of colleges and university. I find it very difficult to maintain a clear sense of what one believes and knows, because, for the most part, what one knows and believes is simply what one knows and believes.
 
- In response to the experiments in curriculum, mentioned earlier, the faculty in New Haven published The Yale Report of 1828. The Report strongly and effectively argued in favor of the classical curriculum – influencing colleges to stay the course – for a time.
- 
-OK, so that’s 1828.
- 
-1859 Darwin published On the Origin of Species.
-Darwin’s work challenged “classical curriculum” on three levels – The scientific theory of evolution challenged biblical exegesis; The scientific method of the work offered the promise of unprecedented scientific progress and called into question other types of knowledge; and finally there was the philosophical system; can or even should the Bible form the basis for all knowledge. –- The “Unity of Truth” was clearly on shaky ground.
+Thus this description of the academy in the 19th century is a way of investigating the fact that what we know can have significant impact on our implicit beliefs. Then using that as a jumping off point for trying to think about our individual knowledge and how that impacts our software development.
 
-1862 The Morrill Land-Grant act was passed.
+In early 19th century America, study in universities centered around the “classical curriculum” including work in Greek, Latin, and, of course, the Bible. Accordingly, a philosophy of the “the unity of truth” guided academic belief. A “unity of truth” meant that all knowledge, from physics to biblical exegesis, was believed to be reconcilable – All knowledge is part of a single whole.
+
+In response to experiments at some colleges, such as offering students some choices in the courses they took, the faculty in New Haven published The Yale Report of 1828. The Report argued strongly and effectivly in favor of the classical curriculum – influencing colleges to stay the course – for a time.
+ 
+OK, so that’s 1828 — Greek, Latin, the Bible; little student choice.
+ 
+1859: Darwin publishes “On the Origin of Species”.
+Darwin’s work challenged “classical curriculum” on three levels: (1): The scientific theory of evolution challenged biblical exegesis. (2): The scientific method in the work offered the promise of unprecedented technological progress and called into question other types of knowledge. And finally, (3): there was a philosophical challenge. Can or even should the Bible form the basis for all knowledge a direct challenge to the “Unity of Truth.”
+
+1862: The Morrill Land-Grant act was passed.
 The Land-Grand act gave explicit provision and support for technical and practical education. Institutions not called Harvard and Yale started to grow and see success. 
 
-Harvard and Yale had kind of anticipated this shift, starting science degrees in the 1840s that were parallel courses to the standard classical curriculum. However those science courses started out as explicitly second-rate courses. If you weren’t admitted to pursue a BA, the BS might be an option. 
+Harvard and Yale had maybe anticipated this shift, offering science degrees starting in the 1840s. However, the science degrees were designed, and thought of to be explicitly second rate options: Not admitted to pursue a BA? Maybe try for a BS.
 
-By the end of the 19th century, alternate courses of study had become popular, and in an 1885 debate between the presidents of Harvard and Princeton, the arguments for an elective curriculum – where each student could choose their own course of study – won out over arguments for the classical curriculum.
+By the end of the 19th century, these “alternate” courses of study had become popular. In an 1885 debate between the presidents of Harvard and Princeton, the arguments for an elective curriculum – where each student could choose their own course of study – won out over arguments for the classical curriculum.
 
 The widespread adoption of the elective curriculum revitalized the academy bringing new monies, students and pressures not present in the days of Homer and Herodotus.
  
 Ok great – science had gotten better, there was demand for practical (and more exciting) education – so what?
 
-George Marsden’s book on this subject is entitled “The Soul of the American University: From Protestant Establishment to Established Nonbelief.” I believe this period of time is worth a second look as it is the crux of this shift of the “soul” from protestant establishment to established nonbelief. Shifts with tectonic implications about what is worth learning, and even what is true and what is right present themselves as mere additions and deletions from the course catalogue. The unending chase for money and students both marginalized and enhanced academic missions.
+If we look at the state of the academy today, we might think it is mostly reasonable and coherent. We might look back to 1801 and, on one-hand, dismiss the state of the academy as anachronistic by today’s standards, but on the other hand, see that for the time, it was mostly reasonable and coherent.
 
-It is easy to take the state of the academy today as mostly reasonable and coherent. It is also easy to look back at 1801 and dismiss the state of the academy as anachronistic by today’s standards, but, to also see that for the time, it was mostly reasonable and coherent.
+Maybe both are reasonable and coherent, but the two are worlds away from each other. However, the changes arrived as mere additions and deletions from the course catalogue. Dropping Latin as a graduation requirement might seem unimportant, but it may actually indicate the presence of a tectonic shift in values and beliefs.
 
-Colleges changed from religious institutions with singular focus teaching about the world to worldly institutions with fractures and divided focus that will, at times, teach about religions.
+College was always about “Higher education”, but the conception of “Higher education” changed drastically from “Having a Christian knowledge / understanding of the world,” to  “Having Scientific knowledge / understanding of the world” (and oh, by the way, that might include knowing something about Christianity.)
 
-And doesn’t that feel a little odd. 
+That’s all the 19th Century. What about software development?
 
-"Here at Turing, at the very least we implicitly value  vocational knowledge. Was this always the case for you growing up?
+As a way of starting discussion, I want to offer a gross simplification and parallel to the 19th Century Academy:
 
-If not, when did that change?
+In making decisions in your software development: Are you human / emotionally oriented and making rational decisions? Or are you rationally  / logically oriented and making human / emotional decisions? When has that been useful? When has that been detrimental?
 
-2-3 discussion questions you might want people to discuss after your presentation:  
-1. "Here at Turing, at the very least we implicitly value  vocational knowledge. Was this always the case for you growing up?  
-2. If not, when did that change?  
-3. Are there forms of knowledge which you implicitly value more or less? (Think about what you might use to support a variety of questions, spanning from the philosophical: ""What makes a valuable life?"" to the more concrete: ""How should we improve educational outcomes?)"
+As software developers we constantly make choices - large and small - from what processes and technologies to use, to what assumptions and simplifications to make, to what stylistic conventions to implement. In making these choices, we draw upon our knowledge and therefore our values.
+
+My broad question is this: When making decisions in your software development, what types of knowledge and values do you draw upon most?
+
+
+I know this is a complicated question so I’ll give an example.
+
+With a moderate Math background I find reading logic with shorter variable names mostly straight forward. I believe that logic largely speaks for itself, and as such my code is probably not as friendly for people without a similar math / logic background.
+
+I gain in brevity, but potentially lose in clarity for others who might read my code.
+
+My main orientation is logical / rational, but have to do so within a human context.
+
+Alternatively, maybe I know the importance of accessible web design, and work hard to ensure my app is customizable with very friendly UI.
+
+I gain in user experience, but potentially lose in simplicity and speed.
+
+
+I don’t want to suggest these decisions are either/or, this is to help move the discussions along.
+
+Alternately:
+
+To what extent can the decisions be parceled into one area or another?
+
+Would your answer change when talking about decisions outside of software development?
+
+Is that division unfair? If so, why? 
+
 
 Checklist:
 
